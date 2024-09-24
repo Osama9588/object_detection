@@ -75,14 +75,3 @@ if __name__ == "__main__":
     model.run(video_path=file)
 ```
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests. For any issues or feature requests, please open an issue on GitHub.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at danielsamueletukudo@gmail.com and on linkedin@ https://www.linkedin.com/in/daniel-etukudo
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
